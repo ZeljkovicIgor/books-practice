@@ -1,0 +1,10 @@
+{
+    "name": "archigor/1_weather_station",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Archigor\\1WeatherStation\\": "src/"
+        }
+    },
+    "require": {}
+}

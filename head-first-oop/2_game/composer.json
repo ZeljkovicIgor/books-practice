@@ -1,0 +1,10 @@
+{
+    "name": "archigor/2_game",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Archigor\\2Game\\": "src/"
+        }
+    },
+    "require": {}
+}

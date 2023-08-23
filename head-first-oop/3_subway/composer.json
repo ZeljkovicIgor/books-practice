@@ -1,0 +1,10 @@
+{
+    "name": "archigor/3_subway",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "require": {}
+}
